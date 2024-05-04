@@ -16,9 +16,9 @@ A rudimentary version of the project was built during the 24 hours at The Buchar
 - Vision with OpenCV and GPT 4 Turbo
 - Tracking with OpenCV and Haar Cascade classifiers
 
-## (Old) Demo
+## Demo
 
-[![Watch the video](https://img.youtube.com/vi/fq5gw-32NBQ/hqdefault.jpg)](https://www.youtube.com/embed/fq5gw-32NBQ)
+[![Watch the video](https://img.youtube.com/vi/hfDtnavh2PQ/hqdefault.jpg)](https://www.youtube.com/watch?v=hfDtnavh2PQ)
 ## Matei and Sebastian presenting a live demo on stage at The Bucharest Hackathon
 ![Photo www themoment ro 1-1343](https://github.com/anghelmatei/BucharestHackathon-GLaDOS/assets/139790358/9767e89c-3643-42ba-89c2-1828a5068594)
 ![Photo www themoment ro 1-1374](https://github.com/anghelmatei/BucharestHackathon-GLaDOS/assets/139790358/308c5c21-cc17-41a3-94da-c601b737c356)
